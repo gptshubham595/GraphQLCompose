@@ -1,0 +1,10 @@
+query ContinentFetching{
+    continents{
+        name
+        code
+        countries {
+            name
+            emoji
+        }
+    }
+}
