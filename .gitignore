@@ -15,4 +15,13 @@
 local.properties
 
 # Project exclude paths
+.idea
+/.idea/kotlinc.xml
+/.idea/migrations.xml
+/.idea/misc.xml
+/.idea/gradle.xml
+/.idea/graphql-settings.xml
+/.idea/vcs.xml
+/.idea/runConfigurations.xml
+.idea/
 /gradle/
